@@ -4,16 +4,12 @@
  
 To get started and run the app:
 
-Live Website : `https://zepto-chip-nilesh-deshmukh.vercel.app/`
+Live Website : 
 
-- Clone the project using command : 
-
-` git clone https://github.com/NileshDeshmukh09/zepto-chip-assignment.git `
-
-- Run ` npm install ` to install the corresponding node packages
+- Run ` yarn ` to install the corresponding node packages
 
 
-- Run ` npm start ` to run the app on http://localhost:3000
+- Run ` yarn start ` to run the app on http://localhost:3000
 
 ## FEATURES OF THE WEBSITE 
 
@@ -25,7 +21,7 @@ Live Website : `https://zepto-chip-nilesh-deshmukh.vercel.app/`
 
 ### TECHSTACK 
 
- - `REACTJS` , `TYPESCRIPT `
+ - `REACTJS` , `TYPESCRIPT `, `TailWind CSS`
 
 
 # THANKYOU FOR CHECKING THE PROJECT 
