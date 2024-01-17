@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Soham Newman",
+        "email": "soham.newman@example.com",
+        "logo": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+        "id": 2,
+        "name": "Ken Alvarez",
+        "email": "ken.alvarez@example.com",
+        "logo": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+        "id": 3,
+        "name": "Denise Hall",
+        "email": "deni.hall@abc.com",
+        "logo": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+        "id": 4,
+        "name": "Tracy Bing",
+        "email": "tracky.bing@example.com",
+        "logo": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+        "id": 5,
+        "name": "Letitia George",
+        "email": "letetia.george@example.com",
+        "logo": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+        "id": 6,
+        "name": "Calvin Jones",
+        "email": "calvin.jones@abc.com",
+        "logo": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+        "id": 7,
+        "name": "Bradley Wells",
+        "email": "bradley.wells@example.com",
+        "logo": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+        "id": 8,
+        "name": "Brad Grant",
+        "email": "brad.grant@example.com",
+        "logo": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+        "id": 9,
+        "name": "Tim Hall",
+        "email": "tim.hall@example.com",
+        "logo": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+        "id": 10,
+        "name": "Tamara cox",
+        "email": "tamara.cox@example.com",
+        "logo": "https://i.pravatar.cc/150?img=10"
+    },
+    {
+        "id": 11,
+        "name": "Hazard",
+        "email": "m.chelsea@example.com",
+        "logo": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+        "id": 12,
+        "name": "M Salah",
+        "email": "m.salah@example.com",
+        "logo": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+        "id": 13,
+        "name": "Rohit Sharma",
+        "email": "hitman@example.com",
+        "logo": "https://i.pravatar.cc/150?img=13"
+    }
+]
