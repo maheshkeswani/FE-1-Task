@@ -4,7 +4,7 @@
  
 To get started and run the app:
 
-Live Website : 
+Live Website : https://fe-1-task.vercel.app/
 
 - Run ` yarn ` to install the corresponding node packages
 
